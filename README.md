@@ -8,7 +8,8 @@ En el documento también salen los integrantes del grupo que ha hecho este proye
 
 ## Código
 
-Este programa genera grafos de deferentes modelos y aplica procesos de percolación por aristas y/o por nodos. Los resultados se guardan en archivos CSV. 
+Este programa genera grafos de deferentes modelos y aplica procesos de percolación por aristas y/o por nodos. Los resultados se guardan en archivos CSV.
+Desarrollado en C++. 
 
 Para compilar el proyecto ejecutar el comando make en el terminal: 
     make
