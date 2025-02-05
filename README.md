@@ -1,5 +1,9 @@
 # Projecte GRAU-A Q2 2024
 
+## Sobre el proyecto
+
+En este trabajo en grupo de la asignatura de Algoritmia en la UPC, desarrollé e implementé en C++ el modelo Barabási-Albert para analizar experimentalmente la percolación en redes complejas. Llevé a cabo estudios sobre la transición de fase en la conectividad del grafo bajo distintos parámetros de percolación, optimizando el rendimiento del análisis y garantizando resultados estadísticamente significativos.
+
 ## Documentación
 
 Toda la documentación del proyecto está en: [Proyecto A](Proyecto_A.pdf)
